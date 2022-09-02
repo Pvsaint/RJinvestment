@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="6289.506" height="9798.746" viewBox="0 0 6289.506 9798.746">
+  <g id="Group_5" data-name="Group 5" transform="translate(-3381.378 -5833)">
+    <path id="Path_7" data-name="Path 7" d="M6645.281,6250.005V5356.8h-1943.9v8367.947h6289.506V5356.8H8988.4v893.207h1226v6652.048H5448.159V6250.005Z" transform="translate(-1320 1907)" fill="#5b5454"/>
+    <g id="Path_8" data-name="Path 8" transform="translate(4535 8766)" fill="#5b5454">
+      <path d="M 789.7810668945312 5472.5 L 0.499714195728302 5472.5 L 0.499714195728302 0.5 L 789.7810668945312 0.5 L 789.7810668945312 5472.5 Z" stroke="none"/>
+      <path d="M 0.99969482421875 1 L 0.99969482421875 5472 L 789.2810668945312 5472 L 789.2810668945312 1 L 0.99969482421875 1 M -0.00030517578125 0 L 790.2810668945312 0 L 790.2810668945312 5473 L -0.00030517578125 5473 L -0.00030517578125 0 Z" stroke="none" fill="#707070"/>
+    </g>
+    <g id="Rectangle_6" data-name="Rectangle 6" transform="translate(6064 5833)" fill="#5b5454" stroke="#707070" stroke-width="1">
+      <rect width="847" height="8406" stroke="none"/>
+      <rect x="0.5" y="0.5" width="846" height="8405" fill="none"/>
+    </g>
+    <g id="Path_9" data-name="Path 9" transform="translate(7734 8766)" fill="#5b5454">
+      <path d="M 705.5 5472.5 L -97.86668395996094 5472.5 L -97.86668395996094 0.5 L 705.5 0.5 L 705.5 5472.5 Z" stroke="none"/>
+      <path d="M -97.36669921875 1 L -97.36669921875 5472 L 705 5472 L 705 1 L -97.36669921875 1 M -98.36669921875 0 L 706 0 L 706 5473 L -98.36669921875 5473 L -98.36669921875 0 Z" stroke="none" fill="#707070"/>
+    </g>
+  </g>
+</svg>
